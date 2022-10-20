@@ -15,4 +15,4 @@ Hi, I am a french computer science student. I love programming and managing my h
 
 ### Social Media
 
-![link](https://img.shields.io/github/followers/le-coatFrederic?label=Follow%20Me&logo=manjaro&style=social)
+[![img](https://img.shields.io/twitter/url?label=%40DanaleightMC&style=social&url=https%3A%2F%2Ftwitter.com%2FDanaleightMC)](https://twitter.com/DanaleightMC)
