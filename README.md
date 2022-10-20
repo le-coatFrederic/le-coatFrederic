@@ -16,3 +16,7 @@ Hi, I am a french computer science student. I love programming and managing my h
 ### Social Media
 
 [![img](https://img.shields.io/twitter/url?label=%40DanaleightMC&style=social&url=https%3A%2F%2Ftwitter.com%2FDanaleightMC)](https://twitter.com/DanaleightMC)
+
+My linkedin : [Frédéric Le Coat](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-le-coat-473104254/)
+
+My master github : [D2Dragono](https://github.com/d2dragono)
