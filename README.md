@@ -15,8 +15,8 @@ Hi, I am a french computer science student. I love programming and managing my h
 
 ### Social Media
 
-My Twitter : [![img](https://img.shields.io/twitter/url?label=%40DanaleightMc&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FDanaleightMC)](https://twitter.com/DanaleightMC)
+My Twitter : [![img](https://img.shields.io/twitter/url?label=%40DanaleightMc&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FDanaleightMC)](https://twitter.com/DanaleightMC)
 
-My linkedin : [![img](https://img.shields.io/twitter/url?label=le%20coat%20fr%C3%A9d%C3%A9ric&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffr%25C3%25A9d%25C3%25A9ric-le-coat-473104254%2F)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-le-coat-473104254/)
+My linkedin : [![img](https://img.shields.io/twitter/url?label=Le%20Coat%20Fr%C3%A9d%C3%A9ric&logo=linkedin&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffr%25C3%25A9d%25C3%25A9ric-le-coat-473104254%2F)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-le-coat-473104254/)
 
-My master github : [![img](https://img.shields.io/twitter/url?label=%40d2dragono&logo=github&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fd2dragono)](https://github.com/d2dragono)
+My master github : [![img](https://img.shields.io/twitter/url?label=D2Dragono&logo=github&style=plastic&url=https%3A%2F%2Fgithub.com%2Fd2dragono)](https://github.com/d2dragono)
