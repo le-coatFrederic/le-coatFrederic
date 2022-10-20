@@ -1,6 +1,6 @@
 <a href="https://github.com/le-coatFrederic"><img alt="skill" src="banner.png"></a>
 
-Hi, I am a french computer science student. I love programming and managing my home network.
+Hi, I am a french student. I love programming small application with C and C++ language. I also often use Java for light graphical application. I also enjoy managing my own home network using raspberry pi and a server. 
 
 ### Skills 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="skill" src="c.png" height="128px"></a> 
@@ -9,7 +9,8 @@ Hi, I am a french computer science student. I love programming and managing my h
 <a href="https://en.wikipedia.org/wiki/MySQ"><img alt="skill" src="mysql.png" height="128px"></a> 
 <a href="https://en.wikipedia.org/wiki/Oracle_SQL_Developer"><img alt="skill" src="oracleSql.svg" height="128px"></a> 
 <a href="https://en.wikipedia.org/wiki/HTML5"><img alt="skill" src="html5.png" height="128px"></a> 
-<a href="https://en.wikipedia.org/wiki/CSS"><img alt="skill" src="css.png" height="128px"></a> 
+<a href="https://en.wikipedia.org/wiki/CSS"><img alt="skill" src="css.png" height="128px"></a>
+<a href="https://en.wikipedia.org/wiki/PHP"><img alt="skill" src="php.png" height="128px"></a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img alt="skill" src="bash.png" height="128px"></a> 
 <a href="https://en.wikipedia.org/wiki/Git"><img alt="skill" src="git.png" height="128px"></a> 
 
