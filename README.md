@@ -13,8 +13,6 @@ Hi, I am a french computer science student. I love programming and managing my h
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img alt="skill" src="bash.png" height="128px"></a> 
 <a href="https://en.wikipedia.org/wiki/Git"><img alt="skill" src="git.png" height="128px"></a> 
 
-
-### Projects
-
-
 ### Social Media
+
+![link](https://img.shields.io/github/followers/le-coatFrederic?label=Follow%20Me&logo=manjaro&style=social)
