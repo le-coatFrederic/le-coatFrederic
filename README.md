@@ -1,23 +1,23 @@
-<a href="https://github.com/le-coatFrederic"><img alt="skill" src="banner.png"></a>
+# Frédéric — Data Engineer
 
-Hi, I am a french student. I love programming small application with C and C++ language. I also often use Java for light graphical application. I also enjoy managing my own home network using raspberry pi and a server. 
+- Je construis des pipelines ETL/ELT robustes, testés et observables.  
+- Ouvert aux opportunités Data Engineer (remote / hybride / full-time).  
+- Contact : [lecoatfred@gmail.com](mailto:lecoatfred@gmail.com) — LinkedIn: [linkedin/frederic-le-coat](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-le-coat-473104254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-### Skills 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="skill" src="c.png" height="64px"></a> 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="skill" src="cpp.png" height="64px"></a>
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img alt="skill" src="java.png" height="64px"></a> 
-<a href="https://en.wikipedia.org/wiki/MySQ"><img alt="skill" src="mysql.png" height="64px"></a> 
-<a href="https://en.wikipedia.org/wiki/Oracle_SQL_Developer"><img alt="skill" src="oracleSql.svg" height="64px"></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5"><img alt="skill" src="html5.png" height="64px"></a> 
-<a href="https://en.wikipedia.org/wiki/CSS"><img alt="skill" src="css.png" height="64px"></a>
-<a href="https://en.wikipedia.org/wiki/PHP"><img alt="skill" src="php.png" height="64px"></a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img alt="skill" src="bash.png" height="64px"></a> 
-<a href="https://en.wikipedia.org/wiki/Git"><img alt="skill" src="git.png" height="64px"></a> 
+---
 
-### Social Media
+## Projets phares
 
-My Twitter : [![img](https://img.shields.io/twitter/url?label=%40DanaleightMc&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FDanaleightMC)](https://twitter.com/DanaleightMC)
+---
 
-My linkedin : [![img](https://img.shields.io/twitter/url?label=Le%20Coat%20Fr%C3%A9d%C3%A9ric&logo=linkedin&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffr%25C3%25A9d%25C3%25A9ric-le-coat-473104254%2F)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-le-coat-473104254/)
+## Technologies clés
+Python • SQL • Java • Spark • Spring Boot • Postgres • Docker • Jenkins
 
-My master's github : [![img](https://img.shields.io/twitter/url?label=D2Dragono&logo=github&style=plastic&url=https%3A%2F%2Fgithub.com%2Fd2dragono)](https://github.com/d2dragono)
+---
+
+## Pourquoi moi ?
+- J’apporte des pipelines prêts pour la prod (tests, monitoring, infra).
+- J’ai une posture produit (ancien chef de projet / dev full-stack).
+- Je documente et partage : chaque repo contient un quickstart et des jeux de données.
+
+> Si tu veux tester : clone `data-ingestion-pipeline`, lance `docker-compose up` → ouvre Airflow → exécute le DAG `ingest_demo`.
