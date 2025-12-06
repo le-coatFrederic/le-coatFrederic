@@ -6,10 +6,6 @@
 
 ---
 
-## Projets phares
-
----
-
 ## Technologies clés
 Python • SQL • Java • Spark • Spring Boot • Postgres • Docker • Jenkins
 
