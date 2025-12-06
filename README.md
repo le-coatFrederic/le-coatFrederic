@@ -18,6 +18,3 @@ Python • SQL • Java • Spark • Spring Boot • Postgres • Docker • Je
 ## Pourquoi moi ?
 - J’apporte des pipelines prêts pour la prod (tests, monitoring, infra).
 - J’ai une posture produit (ancien chef de projet / dev full-stack).
-- Je documente et partage : chaque repo contient un quickstart et des jeux de données.
-
-> Si tu veux tester : clone `data-ingestion-pipeline`, lance `docker-compose up` → ouvre Airflow → exécute le DAG `ingest_demo`.
