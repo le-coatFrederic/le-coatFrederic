@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 # Frédéric — Data Engineer
 
 - Je construis des pipelines ETL/ELT robustes, testés et observables.  
