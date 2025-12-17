@@ -1,18 +1,61 @@
 ![banner](banner.png)
 
-# Frédéric — Data Engineer
+# 👋 Bonjour, je suis Frédéric Le Coat
 
-- Je construis des pipelines ETL/ELT robustes, testés et observables.  
-- Ouvert aux opportunités Data Engineer (remote / hybride / full-time).  
-- Contact : [lecoatfred@gmail.com](mailto:lecoatfred@gmail.com) — LinkedIn: [linkedin/frederic-le-coat](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-le-coat-473104254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-## Technologies clés
-Python • SQL • Java • Spark • Spring Boot • Postgres • Docker • Jenkins
+Développeur Java / Business Analyst IT  
+Passionné par la **création de solutions métier efficaces** et la **fiabilisation des processus**, j’allie une forte compréhension fonctionnelle à des compétences techniques solides (Java, Spring Boot, Angular, SQL, Python et Power BI).
 
 ---
 
-## Pourquoi moi ?
-- J’apporte des pipelines prêts pour la prod (tests, monitoring, infra).
-- J’ai une posture produit (ancien chef de projet / dev full-stack).
+## 💡 À propos de moi
+
+- **Ce que je fais**  
+  Je conçois et développe des applications qui **résolvent des besoins métiers réels**, en traduisant les exigences utilisateurs en solutions robustes et maintenables.
+
+- **Ce que j’aime**  
+  Logique métier, optimisation de processus, qualité des données, indicateurs décisionnels, collaboration inter-équipes.
+
+- **Ce que j’apporte**  
+  Une expérience concrète sur des projets complexes où la technique sert directement le **business**, pas l’inverse.
+
+---
+
+## 🚀 Tech & Outils
+
+Voici ce que j’utilise ou maîtrise :
+
+**Backend / Dev**  
+Java • Spring Boot • Spring Data JPA • Architecture métier • Python
+
+**Frontend**  
+Angular • TypeScript • HTML / CSS
+
+**Data & BI**  
+SQL • Modélisation de données • Power BI
+
+**Outils & Méthodes**  
+Git / GitHub • Docker • Linux • Maven • Environnement Agile
+
+---
+
+## 📌 Projets que j’ai réalisés
+
+### ERP Freelance  
+Un ERP complet pour freelances couvrant prospects, devis, clients, missions et métriques.  
+→ Application concrète d’un besoin métier, avec automatisation des tâches à faible valeur ajoutée.
+
+### Serveur personnel & plateforme Docker  
+Serveur hébergeant plusieurs apps et environnements, avec déploiements reproductibles et isolation.
+
+### Site Web pour association Antiquités Siciliennes  
+Application web qui propose une vitrine, un concours de mémoires d'étudiant et un blog.
+
+> *Pour chaque projet, tu trouveras un README dédié dans son repo avec plus de détails.*
+
+---
+
+## 📫 Me contacter
+
+- lecoatfred@gmail.com  
+- https://www.linkedin.com/in/frédéric-le-coat  
+- https://github.com/le-coatFrederic
