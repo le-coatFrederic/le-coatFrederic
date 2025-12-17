@@ -9,13 +9,13 @@ Passionné par la **création de solutions métier efficaces** et la **fiabilisa
 
 ## 💡 À propos de moi
 
-- **Ce que je fais**  
+**Ce que je fais**  
   Je conçois et développe des applications qui **résolvent des besoins métiers réels**, en traduisant les exigences utilisateurs en solutions robustes et maintenables.
 
-- **Ce que j’aime**  
+**Ce que j’aime**  
   Logique métier, optimisation de processus, qualité des données, indicateurs décisionnels, collaboration inter-équipes.
 
-- **Ce que j’apporte**  
+**Ce que j’apporte**  
   Une expérience concrète sur des projets complexes où la technique sert directement le **business**, pas l’inverse.
 
 ---
